@@ -1,4 +1,14 @@
-# (A) Standard for Being Done Discovery
+# A Standard for Being Done Discovery
+
+When a government program sets out on new a project, or has been given money to hire a development team to build a new service or digital system, we normally ask them, "_Have you done Discovery?_" 
+
+This checklist could be used to create a shared understanding of what "Discovery work" is, and a standard against which to assess whether one has done enough "Discovery work" to move forward with a project or procurement. 
+
+_Most of this is copied from the [Gov.UK Service Manual](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#define-the-problem)_
+
+---
+
+**Checklist**
 
 You are finished the Discovery phase when you can confidently back up the following statements:
 
